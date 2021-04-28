@@ -3,7 +3,7 @@
 Just a little pet project of mine. I was recently in the market to purchase my own property and I was tired of scrolling and seeing the same listings. I figured I could probably automate my search in Python and email myself whatever listing came out that day. 
 
 The site being scraped is a local real estate website that specializes in the area I'm interested in. It also aggregates data from other real estate agencies within the area.
-The site also uses some form of AJAX/Dynamically loaded Javascript, so scraping the HTML data becomes a little more involved than just being able to step through the site's urls. This is because dynamic javascript is able to render the contents of your web session without changing the url you are on. To get around this, this script will use a chrome driver and the python selenium module.
+The site I was scraping from uses some form of AJAX/Dynamically loaded Javascript, so scraping the HTML data becomes a little more involved than just being able to step through the site's urls. This is because dynamic javascript is able to render the contents of your web session without changing the url you are on. To get around this, this script will use a chrome driver and the python selenium module.
 
 A few things to note when scraping:
 
