@@ -1,5 +1,5 @@
 # Scraping-AJAX-Website-and-storing-data-locally
-=================================================================================================================================================================================
+================================================
 Just a little personal project of mine. The point is to collect housing market data and analyze it long term, identify pricing trends in the neighborhood and determine what is a good deal based on historical data. The site being scraped uses some form of AJAX/Dynamically loaded Javascript, so scraping the HTML data becomes a little more involved than just being able to step through the site's urls. This is because dynamic javascript is able to render the contents of your web session without changing the url you are on. To get around this, this script will use a chrome driver and the python selenium module.
 
 A few things to note when scraping:
