@@ -1,4 +1,4 @@
-# Scraping-AJAX-Website-and-storing-data-locally
+# Scraping-AJAX-Websites-and-storing-data-locally
 
 Just a little pet project of mine. I was recently in the market to purchase my own property and I was tired of scrolling and seeing the same listings. I figured I could probably automate my search in Python and email myself whatever listing came out that day. 
 
